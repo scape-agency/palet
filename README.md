@@ -1,2 +1,1 @@
-# palet
-Palet
+# Palet
